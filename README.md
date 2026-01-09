@@ -13,11 +13,6 @@ When a user launches an app while the app's process isn't running (a cold start)
 https://github.com/user-attachments/assets/8853d2dd-70c7-4aa4-8023-517b9512920f
 
 
-https://github.com/user-attachments/assets/89fbad64-75e4-459d-bce2-fbd438240fe1
-
-
-
-
 ## Mechanism
 1. The app icon must be a vector drawable. It can be static or animated. Google recommends not to exceed 1000 ms for animated ones.
 2. The icon background is optional.
